@@ -1138,6 +1138,7 @@ margin-bottom: 0px;
   }
   html, body{
     overflow-x: hidden;
+    overflow-y: auto;
   }
   .mobvkl {
     width: 260px;
